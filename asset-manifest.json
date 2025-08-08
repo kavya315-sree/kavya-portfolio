@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/kavya-portfolio/static/css/main.31d6cfe0.css",
-    "main.js": "/kavya-portfolio/static/js/main.0ad367ab.js",
+    "main.js": "/kavya-portfolio/static/js/main.ece58319.js",
     "index.html": "/kavya-portfolio/index.html",
-    "main.0ad367ab.js.map": "/kavya-portfolio/static/js/main.0ad367ab.js.map"
+    "main.ece58319.js.map": "/kavya-portfolio/static/js/main.ece58319.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.0ad367ab.js"
+    "static/js/main.ece58319.js"
   ]
 }
