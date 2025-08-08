@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/kavya-portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/kavya-portfolio/static/js/main.3bc6cf8d.js",
+    "index.html": "/kavya-portfolio/index.html",
+    "main.3bc6cf8d.js.map": "/kavya-portfolio/static/js/main.3bc6cf8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3bc6cf8d.js"
+  ]
+}
